@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: WhereYouAt Universal
+## Notes: Shows zones for group leaders and players in the LFG browser using the client's localized font.
+## Notes-ruRU: Показывает зоны лидеров групп и игроков в поиске группы со шрифтом языка клиента.
+## Author: samfoxy (original)
+## Version: 1.0.0
+## X-License: MIT
+
+WhereYouAtUniversal.lua
